@@ -1,0 +1,30 @@
+/*
+Theme Name: Storefront Child
+Template: storefront
+Version: 1.0
+*/
+
+.city-table-container {
+    margin: 20px;
+}
+
+.city-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.city-table th,
+.city-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.city-table th {
+    background-color: #f4f4f4;
+}
+
+.city-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
